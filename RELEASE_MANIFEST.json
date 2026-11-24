@@ -1,0 +1,43 @@
+{
+  "productName": "Cobalix Orbital",
+  "bundleIdentifier": "com.cobalix.obsidian",
+  "version": "0.1.0",
+  "buildTimestamp": "2026-11-24T04:52:48.159Z",
+  "targetArchitecture": "x86_64",
+  "targetTriple": "x86_64-apple-darwin",
+  "artifactFilename": "apps/desktop/src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Cobalix Orbital.app",
+  "artifactChecksums": {
+    "bundleTreeSha256": "63c14a06f186f70d650736ef06d527eb9440fbd15ac1b906d3863e68fd76b7f6",
+    "bundledFileCount": 7,
+    "executableSha256": "3122315d665901831e3b387beafc558f345bb622ffd71ecd9e7afba478b94152",
+    "companionBundleSha256": "411c9374c19190554862311b23cdb2dce252b75d122b6d62c7b702cf64750698",
+    "bundledNodeSha256": "7abcf39bd37ab251015337ff75304d7555f0d8e88c6e0fbf04bce8ce34636f49"
+  },
+  "nodeRuntime": {
+    "mode": "bundled",
+    "version": "v24.21.0",
+    "architecture": "x86_64",
+    "sourceUrl": "https://nodejs.org/dist/v24.21.0/node-v24.21.0-darwin-x64.tar.gz",
+    "tarballSha256": "1462cb3b3046b815cf8ea436d3da450ec1a9f11dac7e5a46b0ada5305d7e8097",
+    "binarySha256": "7abcf39bd37ab251015337ff75304d7555f0d8e88c6e0fbf04bce8ce34636f49",
+    "thirdPartyNoticesIncluded": true
+  },
+  "companion": {
+    "version": "0.1.0",
+    "sizeBytes": 214981
+  },
+  "dependencyAudit": {
+    "productionVulnerabilities": 0,
+    "workspaceVulnerabilities": 0
+  },
+  "testResults": {
+    "vitestFilesPassed": 15,
+    "vitestTestsPassed": 77,
+    "vitestTestsTotal": 77,
+    "cargoTestsPassed": 10,
+    "cargoTestsTotal": 10
+  },
+  "signingStatus": "unsigned",
+  "signingDetail": "code object is not signed at all",
+  "notarizationStatus": "not_notarized"
+}
